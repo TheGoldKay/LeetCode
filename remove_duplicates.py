@@ -12,4 +12,4 @@ class Solution:
             if s[i] == s[i+1]:
                 #print(s[i], s[i+1])
                 return i
-        return None 
+        return None  
